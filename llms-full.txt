@@ -1,0 +1,62 @@
+# Vigo
+
+> Geotechnical engineering company in Chile, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Amplificacion Sismica](https://vigo.geotecnia.vip/amplificacion-sismica/)
+- [Anclajes](https://vigo.geotecnia.vip/anclajes/)
+- [Asentamiento Diferencial](https://vigo.geotecnia.vip/asentamiento-diferencial/)
+- [Asentamientos](https://vigo.geotecnia.vip/asentamientos/)
+- [Calicatas Exploratorias](https://vigo.geotecnia.vip/calicatas-exploratorias/)
+- [Capacidad De Carga](https://vigo.geotecnia.vip/capacidad-de-carga/)
+- [Cbr Vial](https://vigo.geotecnia.vip/cbr-vial/)
+- [Cimentaciones](https://vigo.geotecnia.vip/cimentaciones/)
+- [Cimentaciones Rellenos](https://vigo.geotecnia.vip/cimentaciones-rellenos/)
+- [Cimentaciones Sismicas](https://vigo.geotecnia.vip/cimentaciones-sismicas/)
+- [Cimentaciones Superficiales](https://vigo.geotecnia.vip/cimentaciones-superficiales/)
+- [Clasificacion Suelos](https://vigo.geotecnia.vip/clasificacion-suelos/)
+- [Columnas Grava](https://vigo.geotecnia.vip/columnas-grava/)
+- [Compactacion Dinamica](https://vigo.geotecnia.vip/compactacion-dinamica/)
+- [Compresion Simple](https://vigo.geotecnia.vip/compresion-simple/)
+- [Consolidacion](https://vigo.geotecnia.vip/consolidacion/)
+- [Corte Directo](https://vigo.geotecnia.vip/corte-directo/)
+- [Deep Soil Mixing](https://vigo.geotecnia.vip/deep-soil-mixing/)
+- [Deslizamientos](https://vigo.geotecnia.vip/deslizamientos/)
+- [Drenaje Vial](https://vigo.geotecnia.vip/drenaje-vial/)
+- [Ensayo Cbr](https://vigo.geotecnia.vip/ensayo-cbr/)
+- [Ensayo Cpt](https://vigo.geotecnia.vip/ensayo-cpt/)
+- [Ensayo Proctor](https://vigo.geotecnia.vip/ensayo-proctor/)
+- [Ensayo Spt](https://vigo.geotecnia.vip/ensayo-spt/)
+- [Ensayo Triaxial](https://vigo.geotecnia.vip/ensayo-triaxial/)
+- [Ensayos In Situ](https://vigo.geotecnia.vip/ensayos-in-situ/)
+- [Erosion Suelos](https://vigo.geotecnia.vip/erosion-suelos/)
+- [Estabilidad Taludes](https://vigo.geotecnia.vip/estabilidad-taludes/)
+- [Estabilizacion Cal Cemento](https://vigo.geotecnia.vip/estabilizacion-cal-cemento/)
+- [Estabilizacion Carreteras](https://vigo.geotecnia.vip/estabilizacion-carreteras/)
+- [Estabilizacion Taludes](https://vigo.geotecnia.vip/estabilizacion-taludes/)
+- [Estudio Mecanica Suelos](https://vigo.geotecnia.vip/estudio-mecanica-suelos/)
+- [Excavaciones Profundas](https://vigo.geotecnia.vip/excavaciones-profundas/)
+- [Excavaciones Subterraneas](https://vigo.geotecnia.vip/excavaciones-subterraneas/)
+- [Exploracion](https://vigo.geotecnia.vip/exploracion/)
+- [Factor Seguridad](https://vigo.geotecnia.vip/factor-seguridad/)
+- [Falla Taludes](https://vigo.geotecnia.vip/falla-taludes/)
+- [Flujos Detritos](https://vigo.geotecnia.vip/flujos-detritos/)
+- [Geoceldas](https://vigo.geotecnia.vip/geoceldas/)
+- [Geofisica](https://vigo.geotecnia.vip/geofisica/)
+- [Geomallas](https://vigo.geotecnia.vip/geomallas/)
+- [Geomembranas](https://vigo.geotecnia.vip/geomembranas/)
+- [Georradar Gpr](https://vigo.geotecnia.vip/georradar-gpr/)
+- [Geotecnia Vial](https://vigo.geotecnia.vip/geotecnia-vial/)
+- [Granulometria](https://vigo.geotecnia.vip/granulometria/)
+- [Grouting](https://vigo.geotecnia.vip/grouting/)
+- [Jet Grouting](https://vigo.geotecnia.vip/jet-grouting/)
+- [Laboratorio](https://vigo.geotecnia.vip/laboratorio/)
+- [Licuefaccion](https://vigo.geotecnia.vip/licuefaccion/)
+- [Limites Atterberg](https://vigo.geotecnia.vip/limites-atterberg/)
+
+## Contact
+- Website: https://vigo.geotecnia.vip/
+
+## About
+This page provides information about geotechnical engineering services available in Chile.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
