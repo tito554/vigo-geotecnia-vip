@@ -1,9 +1,9 @@
 {
-  "name": "Vigo",
-  "short_name": "Vigo",
+  "name": "Geotecnia",
+  "short_name": "Geotecnia",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#0A2540",
+  "theme_color": "#374151",
   "background_color": "#FFFFFF",
   "icons": [
     {
@@ -11,10 +11,5 @@
       "sizes": "any",
       "type": "image/svg+xml"
     }
-  ],
-  "lang": "es",
-  "orientation": "portrait",
-  "scope": "/",
-  "description": "Servicios geotécnicos profesionales en Vigo, Spain. Estudios de suelo, ensayos y consultoría técnica.",
-  "id": "/vigo-0506"
+  ]
 }
